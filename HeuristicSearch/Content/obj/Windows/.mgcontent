@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alixxa/Source/Workspaces/AStartAlgorithmProject/HeuristicSearch/Content/tile.png</File>
+    <File>C:/Users/Alixxa/Source/Workspaces/AStartAlgorithmProject/HeuristicSearch/Content/pixel.png</File>
+    <File>C:/Users/Alixxa/Source/Workspaces/AStartAlgorithmProject/HeuristicSearch/Content/buttons.png</File>
+    <File>C:/Users/Alixxa/Source/Workspaces/AStartAlgorithmProject/HeuristicSearch/Content/font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
